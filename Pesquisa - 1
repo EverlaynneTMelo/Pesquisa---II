@@ -10,5 +10,4 @@ PROGRAMAS
 CVS ( Concurrent Version System):
 é um sistema de controle de versões que permite que se trabalhe com diversas versões de arquivos organizados em um 
 diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou 
-os arquivos. É recomendado para se controlar versões de um software durante seu desenvolvimento, ou para composição 
-colaborativa de um documento.
+os arquivos.
