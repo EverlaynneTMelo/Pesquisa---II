@@ -12,3 +12,12 @@ CVS ( Concurrent Version System):
 diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou 
 os arquivos. É recomendado para se controlar versões de um software durante seu desenvolvimento, ou para composição 
 colaborativa de um documento.
+
+
+
+Minha parte : Vito Santiago
+
+O RCS é útil para texto que é revisado com
+freqüência, por exemplo, programas, documentação, gráficos processuais, 
+documentos e cartas. Ele também é capaz de lidar com arquivos binários, 
+embora com uma eficiência reduzida.
