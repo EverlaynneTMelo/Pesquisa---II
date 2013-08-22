@@ -12,3 +12,9 @@ CVS ( Concurrent Version System):
 diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou 
 os arquivos. É recomendado para se controlar versões de um software durante seu desenvolvimento, ou para composição 
 colaborativa de um documento.
+
+
+Minha parte: Natoniel S
+
+Revision Control System (RCS): é uma implementação de software de controle de revisão de versões, que automatiza o 
+armazenamento, recuperação, registro, identificação e fusão de revisões.
