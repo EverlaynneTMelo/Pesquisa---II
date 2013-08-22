@@ -12,3 +12,9 @@ CVS ( Concurrent Version System):
 diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou 
 os arquivos. É recomendado para se controlar versões de um software durante seu desenvolvimento, ou para composição 
 colaborativa de um documento.
+
+Minha Parte: ALyne Maria
+
+A filosofia de concepção deste programa é dar o máximo de liberdade ao utilizador para fazer as alterações que
+forem necessárias. O Bazaar está escrito em Python, e está licenciado segundo a licença de software livre GPL, 
+sendo a sua versão actual a 2.3.4.
